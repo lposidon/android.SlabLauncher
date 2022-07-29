@@ -41,7 +41,7 @@ dependencies {
     implementation("androidx.core:core-ktx:1.8.0")
     implementation("androidx.palette:palette-ktx:1.0.0")
     implementation("androidx.cardview:cardview:1.0.0")
-    implementation("androidx.fragment:fragment-ktx:1.5.0")
+    implementation("androidx.fragment:fragment-ktx:1.5.1")
     implementation("androidx.recyclerview:recyclerview:1.2.1")
     implementation("androidx.viewpager2:viewpager2:1.0.0")
 
